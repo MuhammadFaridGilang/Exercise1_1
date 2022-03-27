@@ -1,0 +1,17 @@
+<resources>
+    <!--login-->
+    <string name="appname">My Activity</string>
+    <string name="loguname">Masukkan Username</string>
+    <string name="logpass">Masukkan Password</string>
+    <string name="bsignin">Sign-In</string>
+    <!--Register-->
+    <string name="register" />
+    <string name="duname">Masukkan Username</string>
+    <string name="demail">Enter Email</string>
+    <string name="dpass">Enter Password</string>
+    <string name="drepass">Re-enter Password</string>
+    <!--Main Menu-->
+    <string name="tnama">Masukkan Task</string>
+    <string name="tjenis">Masukkan Jenis Task</string>
+    <string name="twaktu">Masukkan Lama Task</string>
+</resources>
